@@ -1,5 +1,5 @@
 '''
-        DEVELOPER NAME:
+        DEVELOPER NAME: BALAVIGNESH.M
         IMPLEMENTED DATE: 18-11-2018
 
                     ProjectName : Movie Theatre
